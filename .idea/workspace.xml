@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SOY03T1aTjz6TC9ootXllI0EVM" />
   <component name="PropertiesComponent">
     <property name="last.edited.regexp" value="Sample Text" />

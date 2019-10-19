@@ -42,7 +42,7 @@ public class Main {
 
     private static void save() throws IOException {
 
-        for (int i = 2421; i < paths.size(); i++) {
+        for (int i = 0; i < paths.size(); i++) {
             URLConnection conn;
             URL url = new URL(paths.get(i));
             conn = url.openConnection();
